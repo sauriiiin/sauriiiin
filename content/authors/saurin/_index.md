@@ -4,14 +4,14 @@ authors:
 bio: I am a PhD student at the University of Pittsburgh School of Medicine working on evolution and new gene birth.
 education:
   courses:
-  - course: MS in Bioengineering
+  - course: Master of Science (MS) in Bioengineering
     institution: University of Pittsburgh Swanson School of Engineering
     location: Pittsburgh, Pennsylvania, USA
     year: 2018
-  - course: MBBS
+  - course: Bachelor of Medicine, Bachelor of Surgery (MBBS)
     institution: Smt. NHL Municipal Medical College, Gujarat University
     location: Ahmedabad, Gujarat, India
-    year: 2016
+    year: 2014
 email: ""
 interests:
 - Computational Biology
