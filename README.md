@@ -1,10 +1,10 @@
 ## Me
 
-Problem Solver | Beauty Seeker <br>
+Problem Solver <br>
 
 ## Environment
 
-[Carvunis Lab](https://www.csb.pitt.edu/faculty/carvunis/) | [Department of Computational & Systems Biology](https://www.csb.pitt.edu) | [University of Pittsburgh School of Medicine](https://www.medschool.pitt.edu) <br>
+[Carvunis Lab](https://www.csb.pitt.edu/faculty/carvunis/) | [Integrative Systems Biology Program](https://www.isb.pitt.edu) | [Department of Computational & Systems Biology](https://www.csb.pitt.edu) | [University of Pittsburgh School of Medicine](https://www.medschool.pitt.edu) <br>
 
 ## Interaction 
 
